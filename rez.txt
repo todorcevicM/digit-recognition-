@@ -1,0 +1,124 @@
+64-64: 
+    procenat tacno predvidjenih:  0.9574523809523809
+    Za klasu  0  osetljivost je:  0.9774927395934172
+    Za klasu  1  osetljivost je:  0.9816396242527754
+    Za klasu  2  osetljivost je:  0.9487670576969116
+    Za klasu  3  osetljivost je:  0.9473684210526315
+    Za klasu  4  osetljivost je:  0.9567779960707269
+    Za klasu  5  osetljivost je:  0.9449275362318841
+    Za klasu  6  osetljivost je:  0.9680928208846991
+    Za klasu  7  osetljivost je:  0.967280163599182
+    Za klasu  8  osetljivost je:  0.9411764705882353
+    Za klasu  9  osetljivost je:  0.9367239732569246
+    prosecna osetljivost je:  0.9570246803227388
+
+64-32:
+    procenat tacno predvidjenih:  0.9550952380952381
+    Za klasu  0  osetljivost je:  0.9770087124878993
+    Za klasu  1  osetljivost je:  0.9835610589239966
+    Za klasu  2  osetljivost je:  0.9449365573378022
+    Za klasu  3  osetljivost je:  0.9413927832682142
+    Za klasu  4  osetljivost je:  0.9651277013752456
+    Za klasu  5  osetljivost je:  0.9428194993412384
+    Za klasu  6  osetljivost je:  0.970510031423737
+    Za klasu  7  osetljivost je:  0.9631901840490797
+    Za klasu  8  osetljivost je:  0.9352695052916564
+    Za klasu  9  osetljivost je:  0.9228748806112703
+    prosecna osetljivost je:  0.9546690914110141
+
+256:
+    procenat tacno predvidjenih:  0.9670714285714286
+    Za klasu  0  osetljivost je:  0.9828170377541142
+    Za klasu  1  osetljivost je:  0.9865499573014518
+    Za klasu  2  osetljivost je:  0.966722528130237
+    Za klasu  3  osetljivost je:  0.95610204550678
+    Za klasu  4  osetljivost je:  0.9636542239685658
+    Za klasu  5  osetljivost je:  0.9612648221343874
+    Za klasu  6  osetljivost je:  0.9758278946096205
+    Za klasu  7  osetljivost je:  0.9656896159963645
+    Za klasu  8  osetljivost je:  0.9571745015998031
+    Za klasu  9  osetljivost je:  0.9524832855778415
+    prosecna osetljivost je:  0.9668285912579165
+
+manhattan
+kNN-1:
+    0.9591666666666666
+    0.9620238095238095
+    0.9616666666666667
+    0.9647619047619047
+    0.96
+    procenat tacno predvidjenih:  0.9615238095238096
+
+kNN-2:
+    0.9542857142857143
+    0.9564285714285714
+    0.9558333333333333
+    0.9569047619047619
+    0.9578571428571429
+    procenat tacno predvidjenih:  0.9562619047619048
+
+kNN-3:
+    0.9627380952380953
+    0.964047619047619
+    0.9638095238095238
+    0.964047619047619
+    0.964047619047619
+    procenat tacno predvidjenih:  0.9637380952380953
+
+kNN-4:
+    0.9621428571428572
+    0.9632142857142857
+    0.9614285714285714
+    0.964047619047619
+    0.9635714285714285
+    procenat tacno predvidjenih:  0.9628809523809524
+
+kNN-5:
+    0.9617857142857142
+    0.9630952380952381
+    0.9623809523809523
+    0.9616666666666667
+    0.963452380952381
+    procenat tacno predvidjenih:  0.9624761904761905
+
+kNN-6: 
+    0.9621428571428572
+    0.9625
+    0.9598809523809524
+    0.9633333333333334
+    0.9616666666666667
+    procenat tacno predvidjenih:  0.9619047619047619
+
+kNN-7:
+    0.9607142857142857
+    0.9621428571428572
+    0.9608333333333333
+    0.9605952380952381
+    0.9588095238095238
+    procenat tacno predvidjenih:  0.9606190476190476
+
+kNN-8:
+    0.9601190476190476
+    0.9617857142857142
+    0.9594047619047619
+    0.9598809523809524
+    0.9589285714285715
+    procenat tacno predvidjenih:  0.9600238095238095
+
+kNN-9:
+    0.9588095238095238
+    0.9601190476190476
+    0.9597619047619048
+    0.9598809523809524
+    0.9588095238095238
+    procenat tacno predvidjenih:  0.9594761904761905
+
+kNN-10:
+    0.9582142857142857
+    0.9585714285714285
+    0.9583333333333334
+    0.9583333333333334
+    0.9580952380952381
+    procenat tacno predvidjenih:  0.9583095238095238
+
+
